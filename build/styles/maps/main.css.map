@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAEA,KACI,iBAHM","file":"../main.css","sourcesContent":["$corBody: rgb(97, 199, 218);\r\n\r\nbody {\r\n    background-color: $corBody;\r\n}"]}
